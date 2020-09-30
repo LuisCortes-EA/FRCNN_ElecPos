@@ -1,2 +1,2 @@
-# YoloV5_ElecPos
-Yolo for electric posts
+# FRCNN_ElecPos
+Faster RCNN for electric posts

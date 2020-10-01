@@ -1,9 +1,9 @@
 FRCNN_ElecPos/train/elec_east00027.jpg 265,102,328,335,0 310,1,335,322,2
 FRCNN_ElecPos/train/elec_east00040.jpg 197,1,279,153,0
 FRCNN_ElecPos/train/elec_east00189.jpg 309,1,331,330,2
-FRCNN_ElecPos/train/elec_east00288.jpg 140,1,204,339,2 elec_east00288.jpg 297,1,356,329,2
+FRCNN_ElecPos/train/elec_east00288.jpg 140,1,204,339,2 297,1,356,329,2
 FRCNN_ElecPos/train/elec_east00600.jpg 311,2,338,346,2
-FRCNN_ElecPos/train/elec_east00614.jpg 314,83,332,349,2 elec_east00614.jpg 439,149,515,329,0
+FRCNN_ElecPos/train/elec_east00614.jpg 314,83,332,349,2 439,149,515,329,0
 FRCNN_ElecPos/train/elec_elev00046.jpg 263,282,355,360,0 313,329,396,397,2
 FRCNN_ElecPos/train/elec_elev00050.jpg 304,299,335,342,2 302,332,392,415,0
 FRCNN_ElecPos/train/elec_elev00051.jpg 300,304,338,341,2 324,315,410,394,0

@@ -1,246 +1,159 @@
-elec_elev00026.jpg 305,302,343,345,2 98,325,257,419,0
-elec_nort00600.jpg 316,1,325,336,2 106,133,179,321,0
-elec_east00053.jpg 303,120,359,352,0 310,1,328,342,2
-elec_nort00254.jpg 308,1,331,328,2
-elec_east00024.jpg 85,5,158,339,0 388,133,436,325,0 309,1,330,329,2
-elec_elev00283.jpg 300,259,378,332,2 391,268,640,400,0
-elec_nort00059.jpg 313,1,328,323,2 282,88,318,292,0
-elec_elev00047.jpg 263,288,325,389,0 313,305,399,394,2 275,125,336,362,0 311,5,327,334,2
-elec_nort00024.jpg 312,1,325,323,2 425,36,509,327,2
-elec_east00615.jpg 303,1,346,344,2
-elec_nort00694.jpg 309,1,328,333,2 368,141,411,349,0
-elec_nort00686.jpg 234,45,309,285,2 311,146,351,289,2
-elec_elev00027.jpg 301,295,336,344,2 155,289,289,399,0
-elec_elev00612.jpg 301,301,338,339,2 200,273,313,405,0
-elec_east00686.jpg 252,136,322,362,0 309,1,332,324,2
-elec_east00280.jpg 232,99,317,333,0 304,1,362,332,2
-elec_nort00687.jpg 255,161,295,309,0 315,56,326,265,2
-elec_nort00042.jpg 306,115,349,333,0 311,1,324,322,2
-elec_nort00047.jpg 306,132,355,333,0 287,1,326,325,2
-elec_east00065.jpg 308,1,331,331,2 574,108,623,399,0
-elec_east00259.jpg 304,1,368,341,2
-elec_nort00691.jpg 371,135,412,345,0 311,2,329,338,2
-elec_elev00052.jpg 321,292,435,389,0 331,337,393,404,2
-elec_nort00581.jpg 287,178,317,393,0 313,2,329,375,2
-elec_east00052.jpg 290,139,347,371,0 311,1,327,332,2
-elec_elev00025.jpg 298,309,344,341,2 246,349,348,469,0
-elec_nort00278.jpg 312,1,328,330,2
-elec_east00284.jpg 302,1,368,325,2 206,135,262,325,0
-elec_elev00057.jpg 301,304,343,341,2
-elec_elev00040.jpg 298,304,335,339,2 1,182,203,332,0
-elec_elev00255.jpg 278,240,407,351,2 298,189,414,299,0
-elec_nort00620.jpg 287,174,314,362,0 312,1,326,315,2
-elec_east00022.jpg 307,1,342,330,2 448,1,469,339,2 330,79,394,326,0 463,117,525,322,0
-elec_nort00043.jpg 307,115,348,323,0 315,1,327,325,2
-elec_elev00285.jpg 282,279,360,357,0 561,289,640,360,0
-elec_elev00065.jpg 304,302,336,339,2
-elec_east00254.jpg 312,1,327,301,2 175,12,192,211,2
-elec_nort00071.jpg 313,1,325,322,0
-elec_east00580.jpg 312,1,332,344,2 207,219,275,396,0
-elec_elev00618.jpg 306,306,332,336,2
-elec_elev00690.jpg 306,309,332,333,2 138,216,262,315,0
-elec_elev00614.jpg 306,306,330,336,2 451,1,558,135,0
-elec_elev00693.jpg 185,142,309,271,0 305,306,335,335,2
-elec_east00249.jpg 234,94,338,292,0 259,33,318,284,2
-elec_east00055.jpg 231,94,290,352,0 310,1,329,329,2
-elec_east00693.jpg 312,155,358,338,0 311,1,332,326,2
-elec_elev00288.jpg 288,250,392,355,2
-elec_nort00041.jpg 312,78,325,325,0 312,1,358,164,0
-elec_elev00069.jpg 298,306,341,336,2
-elec_nort00026.jpg 310,1,326,272,2 435,1,449,271,2 499,90,545,289,0 328,124,366,275,0
-elec_elev00691.jpg 188,145,306,272,0
-elec_elev00691.jpg 308,305,332,337,2
-elec_elev00028.jpg 309,306,338,339,2
-elec_elev00028.jpg 488,235,640,327,0
-elec_east00044.jpg 272,139,335,383,0
-elec_east00044.jpg 309,1,336,337,2
-elec_elev00258.jpg 282,230,411,359,2
-elec_elev00258.jpg 458,1,639,188,0
-elec_elev00254.jpg 308,303,335,338,2
-elec_nort00280.jpg 308,145,341,358,0
-elec_nort00280.jpg 318,1,326,345,2
-elec_east00020.jpg 348,108,403,262,0
-elec_east00020.jpg 276,1,425,302,1
-elec_elev00024.jpg 302,301,347,344,2
-elec_elev00024.jpg 269,1,378,125,0
-elec_east00619.jpg 274,225,314,402,0
-elec_east00619.jpg 302,1,342,342,2
-elec_east00255.jpg 330,119,392,339,0
-elec_east00255.jpg 310,2,362,335,2
-elec_elev00020.jpg 302,304,338,339,2
-elec_elev00020.jpg 238,1,348,197,0
-elec_elev00043.jpg 306,301,335,339,2
-elec_elev00043.jpg 187,338,297,449,0
-elec_east00071.jpg 315,1,325,325,2
-elec_elev00290.jpg 285,234,409,355,2
-elec_nort00285.jpg 131,94,195,372,0
-elec_nort00285.jpg 312,1,325,335,2
-elec_nort00058.jpg 316,2,325,234,2
-elec_east00046.jpg 286,130,359,359,0
-elec_east00046.jpg 308,1,327,373,2
-elec_elev00580.jpg 158,336,265,454,0
-elec_elev00580.jpg 305,305,334,338,2
-elec_elev00045.jpg 282,272,362,358,0
-elec_elev00045.jpg 332,331,394,399,2
-elec_east00285.jpg 449,89,530,395,0
-elec_east00285.jpg 304,1,330,330,2
-elec_nort00257.jpg 315,1,325,332,2
-elec_elev00054.jpg 308,306,335,338,2
-elec_elev00054.jpg 299,259,380,345,0
-elec_east00028.jpg 416,72,478,328,0
-elec_east00028.jpg 306,1,329,329,2
-elec_elev00189.jpg 306,306,336,333,2
-elec_east00612.jpg 252,169,325,344,0
-elec_east00612.jpg 311,33,329,324,2
-elec_elev00029.jpg 306,300,334,341,2
-elec_elev00029.jpg 316,318,397,409,0
-elec_elev00284.jpg 285,236,401,355,2
-elec_elev00284.jpg 155,372,273,482,0
-elec_elev00249.jpg 198,267,292,426,0
-elec_elev00249.jpg 296,325,334,568,2
-elec_east00694.jpg 309,159,363,335,2
-elec_east00694.jpg 305,3,332,335,2
-elec_east00045.jpg 291,132,344,339,0
-elec_east00045.jpg 311,1,330,332,2
-elec_elev00055.jpg 304,302,338,338,2
-elec_elev00055.jpg 155,343,281,481,0
-elec_nort00190.jpg 274,115,317,335,0
-elec_nort00190.jpg 310,1,327,326,2
-elec_nort00049.jpg 290,129,346,368,0
-elec_nort00049.jpg 281,1,321,329,2
-elec_east00029.jpg 290,132,338,365,2
-elec_east00029.jpg 314,4,329,349,2
-elec_nort00048.jpg 290,126,342,304,2
-elec_nort00048.jpg 289,1,324,283,2
-elec_east00049.jpg 290,126,360,368,0
-elec_east00049.jpg 313,1,324,365,2
-elec_east00258.jpg 293,1,371,345,2
-elec_east00041.jpg 312,32,328,320,2
-elec_nort00028.jpg 188,56,277,331,0
-elec_nort00028.jpg 311,1,326,322,2
-elec_east00051.jpg 301,139,349,382,0
-elec_east00051.jpg 310,1,329,370,2
-elec_east00054.jpg 298,123,349,349,0
-elec_east00054.jpg 311,1,327,322,2
-elec_east00581.jpg 302,1,336,333,2
-elec_east00581.jpg 340,176,427,405,0
-elec_east00279.jpg 313,1,328,317,2
-elec_east00279.jpg 438,74,515,394,0
-elec_east00618.jpg 312,7,328,319,2
-elec_nort00690.jpg 308,15,325,295,2
-elec_nort00690.jpg 367,152,407,297,0
-elec_elev00278.jpg 298,258,385,363,2
-elec_east00190.jpg 284,107,352,339,0
-elec_east00190.jpg 310,65,332,326,2
-elec_elev00041.jpg 305,301,338,344,2
-elec_elev00041.jpg 140,241,307,405,0
-elec_nort00258.jpg 304,86,365,365,0
-elec_nort00258.jpg 318,1,323,347,2
-elec_elev00259.jpg 279,231,408,355,2
-elec_elev00259.jpg 426,485,582,636,0
-elec_elev00620.jpg 304,309,336,342,2
-elec_elev00620.jpg 343,246,418,354,0
-elec_nort00288.jpg 312,1,325,336,2
-elec_nort00053.jpg 306,126,336,301,0
-elec_nort00053.jpg 311,1,327,257,2
-elec_east00050.jpg 289,126,348,382,0
-elec_east00050.jpg 315,1,335,351,2
-elec_elev00049.jpg 293,273,398,375,0
-elec_elev00049.jpg 308,313,394,396,2
-elec_elev00190.jpg 306,306,335,339,2
-elec_elev00190.jpg 293,312,374,425,0
-elec_elev00279.jpg 305,308,335,340,2
-elec_elev00279.jpg 552,291,640,396,0
-elec_elev00692.jpg 191,148,290,260,0
-elec_elev00692.jpg 305,308,337,337,2
-elec_elev00280.jpg 218,315,319,400,0
-elec_elev00280.jpg 305,240,402,332,2
-elec_elev00048.jpg 282,293,373,390,0
-elec_elev00048.jpg 313,311,393,396,2
-elec_east00687.jpg 250,126,338,395,0
-elec_east00687.jpg 306,1,332,327,2
-elec_east00025.jpg 311,1,336,266,2
-elec_east00025.jpg 255,95,303,289,0
-elec_east00048.jpg 285,124,378,369,0
-elec_east00048.jpg 313,1,327,368,2
-elec_east00043.jpg 250,96,302,349,0
-elec_east00043.jpg 311,1,330,329,0
-elec_elev00053.jpg 306,304,335,336,2
-elec_elev00053.jpg 281,273,364,357,0
-elec_east00042.jpg 252,102,304,336,0
-elec_east00042.jpg 311,1,332,327,2
-elec_nort00020.jpg 376,72,432,263,0
-elec_nort00020.jpg 226,1,357,265,1
-elec_nort00069.jpg 314,1,325,325,2
-elec_nort00069.jpg 383,1,397,324,2
-elec_east00692.jpg 319,158,346,346,0
-elec_east00692.jpg 313,3,329,350,2
-elec_elev00044.jpg 212,253,331,417,0
-elec_elev00044.jpg 308,303,397,400,2
-elec_nort00065.jpg 312,1,325,322,2
-elec_nort00022.jpg 333,1,425,333,0
-elec_nort00022.jpg 279,1,302,332,2
-elec_nort00022.jpg 231,99,282,318,0
-elec_nort00022.jpg 308,1,329,292,2
-elec_east00026.jpg 235,112,305,345,0
-elec_east00026.jpg 306,1,335,330,2
-elec_elev00694.jpg 188,145,288,263,0
-elec_elev00694.jpg 308,308,332,335,2
-elec_nort00050.jpg 279,147,315,355,0
-elec_nort00050.jpg 315,1,325,334,2
-elec_elev00257.jpg 282,239,405,352,2
-elec_east00058.jpg 309,1,328,329,2
-elec_nort00612.jpg 322,180,352,352,0
-elec_nort00612.jpg 313,3,324,286,2
-elec_nort00023.jpg 301,48,373,282,0
-elec_nort00023.jpg 314,1,326,316,2
-elec_nort00614.jpg 314,7,325,292,2
-elec_nort00614.jpg 340,84,380,315,2
-elec_elev00686.jpg 185,312,301,435,0
-elec_elev00686.jpg 314,300,508,492,2
-elec_nort00615.jpg 308,1,328,339,2
-elec_elev00058.jpg 303,306,338,339,2
-elec_elev00022.jpg 303,304,335,339,2
-elec_elev00022.jpg 388,311,545,424,0
-elec_elev00042.jpg 306,306,335,341,2
-elec_elev00042.jpg 187,321,294,461,0
-elec_elev00023.jpg 306,304,338,341,2
-elec_elev00023.jpg 313,184,415,319,1
-elec_east00278.jpg 295,1,349,342,2
-elec_nort00046.jpg 307,178,355,355,0
-elec_nort00046.jpg 273,1,322,284,2
-elec_east00620.jpg 325,175,406,376,0
-elec_east00620.jpg 296,1,343,338,2
-elec_nort00055.jpg 303,122,349,329,0
-elec_nort00055.jpg 314,1,324,325,2
-elec_nort00580.jpg 310,1,327,339,2
-elec_east00057.jpg 309,1,330,330,2
-elec_nort00045.jpg 300,144,360,333,0
-elec_nort00045.jpg 283,1,331,329,2
-elec_nort00279.jpg 311,1,325,336,2
-elec_nort00618.jpg 314,1,328,328,2
-elec_elev00615.jpg 307,306,336,336,2
-elec_nort00619.jpg 312,99,328,330,2
-elec_nort00619.jpg 367,227,418,340,0
-elec_nort00054.jpg 304,119,338,345,0
-elec_nort00054.jpg 312,1,327,335,2
-elec_nort00290.jpg 310,1,325,325,2
-elec_east00023.jpg 304,1,333,319,2
-elec_east00023.jpg 314,60,370,281,0
-elec_nort00040.jpg 312,177,328,327,2
-elec_nort00040.jpg 356,1,412,159,0
-elec_nort00255.jpg 317,132,347,360,0
-elec_nort00255.jpg 313,1,326,348,2
-elec_nort00027.jpg 322,126,357,279,0
-elec_nort00027.jpg 316,1,324,272,2
-elec_elev00059.jpg 308,309,335,336,2
-elec_elev00059.jpg 282,321,382,432,0
-elec_nort00052.jpg 266,150,314,328,0
-elec_nort00052.jpg 283,1,326,321,2
-elec_elev00619.jpg 306,304,332,336,2
-elec_elev00619.jpg 151,225,259,330,0
-elec_nort00284.jpg 317,5,325,346,2
-elec_east00059.jpg 276,75,368,334,0
-elec_east00059.jpg 311,1,327,330,2
-elec_east00691.jpg 312,150,352,333,0
-elec_east00691.jpg 308,1,335,345,2
+FRCNN_ElecPos/train/elec_elev00026.jpg 305,302,343,345,2 98,325,257,419,0
+FRCNN_ElecPos/train/elec_nort00600.jpg 316,1,325,336,2 106,133,179,321,0
+FRCNN_ElecPos/train/elec_east00053.jpg 303,120,359,352,0 310,1,328,342,2
+FRCNN_ElecPos/train/elec_nort00254.jpg 308,1,331,328,2
+FRCNN_ElecPos/train/elec_east00024.jpg 85,5,158,339,0 388,133,436,325,0 309,1,330,329,2
+FRCNN_ElecPos/train/elec_elev00283.jpg 300,259,378,332,2 391,268,640,400,0
+FRCNN_ElecPos/train/elec_nort00059.jpg 313,1,328,323,2 282,88,318,292,0
+FRCNN_ElecPos/train/elec_elev00047.jpg 263,288,325,389,0 313,305,399,394,2 275,125,336,362,0 311,5,327,334,2
+FRCNN_ElecPos/train/elec_nort00024.jpg 312,1,325,323,2 425,36,509,327,2
+FRCNN_ElecPos/train/elec_east00615.jpg 303,1,346,344,2
+FRCNN_ElecPos/train/elec_nort00694.jpg 309,1,328,333,2 368,141,411,349,0
+FRCNN_ElecPos/train/elec_nort00686.jpg 234,45,309,285,2 311,146,351,289,2
+FRCNN_ElecPos/train/elec_elev00027.jpg 301,295,336,344,2 155,289,289,399,0
+FRCNN_ElecPos/train/elec_elev00612.jpg 301,301,338,339,2 200,273,313,405,0
+FRCNN_ElecPos/train/elec_east00686.jpg 252,136,322,362,0 309,1,332,324,2
+FRCNN_ElecPos/train/elec_east00280.jpg 232,99,317,333,0 304,1,362,332,2
+FRCNN_ElecPos/train/elec_nort00687.jpg 255,161,295,309,0 315,56,326,265,2
+FRCNN_ElecPos/train/elec_nort00042.jpg 306,115,349,333,0 311,1,324,322,2
+FRCNN_ElecPos/train/elec_nort00047.jpg 306,132,355,333,0 287,1,326,325,2
+FRCNN_ElecPos/train/elec_east00065.jpg 308,1,331,331,2 574,108,623,399,0
+FRCNN_ElecPos/train/elec_east00259.jpg 304,1,368,341,2
+FRCNN_ElecPos/train/elec_nort00691.jpg 371,135,412,345,0 311,2,329,338,2
+FRCNN_ElecPos/train/elec_elev00052.jpg 321,292,435,389,0 331,337,393,404,2
+FRCNN_ElecPos/train/elec_nort00581.jpg 287,178,317,393,0 313,2,329,375,2
+FRCNN_ElecPos/train/elec_east00052.jpg 290,139,347,371,0 311,1,327,332,2
+FRCNN_ElecPos/train/elec_elev00025.jpg 298,309,344,341,2 246,349,348,469,0
+FRCNN_ElecPos/train/elec_nort00278.jpg 312,1,328,330,2
+FRCNN_ElecPos/train/elec_east00284.jpg 302,1,368,325,2 206,135,262,325,0
+FRCNN_ElecPos/train/elec_elev00057.jpg 301,304,343,341,2
+FRCNN_ElecPos/train/elec_elev00040.jpg 298,304,335,339,2 1,182,203,332,0
+FRCNN_ElecPos/train/elec_elev00255.jpg 278,240,407,351,2 298,189,414,299,0
+FRCNN_ElecPos/train/elec_nort00620.jpg 287,174,314,362,0 312,1,326,315,2
+FRCNN_ElecPos/train/elec_east00022.jpg 307,1,342,330,2 448,1,469,339,2 330,79,394,326,0 463,117,525,322,0
+FRCNN_ElecPos/train/elec_nort00043.jpg 307,115,348,323,0 315,1,327,325,2
+FRCNN_ElecPos/train/elec_elev00285.jpg 282,279,360,357,0 561,289,640,360,0
+FRCNN_ElecPos/train/elec_elev00065.jpg 304,302,336,339,2
+FRCNN_ElecPos/train/elec_east00254.jpg 312,1,327,301,2 175,12,192,211,2
+FRCNN_ElecPos/train/elec_nort00071.jpg 313,1,325,322,0
+FRCNN_ElecPos/train/elec_east00580.jpg 312,1,332,344,2 207,219,275,396,0
+FRCNN_ElecPos/train/elec_elev00618.jpg 306,306,332,336,2
+FRCNN_ElecPos/train/elec_elev00690.jpg 306,309,332,333,2 138,216,262,315,0
+FRCNN_ElecPos/train/elec_elev00614.jpg 306,306,330,336,2 451,1,558,135,0
+FRCNN_ElecPos/train/elec_elev00693.jpg 185,142,309,271,0 305,306,335,335,2
+FRCNN_ElecPos/train/elec_east00249.jpg 234,94,338,292,0 259,33,318,284,2
+FRCNN_ElecPos/train/elec_east00055.jpg 231,94,290,352,0 310,1,329,329,2
+FRCNN_ElecPos/train/elec_east00693.jpg 312,155,358,338,0 311,1,332,326,2
+FRCNN_ElecPos/train/elec_elev00288.jpg 288,250,392,355,2
+FRCNN_ElecPos/train/elec_nort00041.jpg 312,78,325,325,0 312,1,358,164,0
+FRCNN_ElecPos/train/elec_elev00069.jpg 298,306,341,336,2
+FRCNN_ElecPos/train/elec_nort00026.jpg 310,1,326,272,2 435,1,449,271,2 499,90,545,289,0 328,124,366,275,0
+FRCNN_ElecPos/train/elec_elev00691.jpg 188,145,306,272,0 308,305,332,337,2
+FRCNN_ElecPos/train/elec_elev00028.jpg 309,306,338,339,2 488,235,640,327,0
+FRCNN_ElecPos/train/elec_east00044.jpg 272,139,335,383,0 309,1,336,337,2
+FRCNN_ElecPos/train/elec_elev00258.jpg 282,230,411,359,2 458,1,639,188,0
+FRCNN_ElecPos/train/elec_elev00254.jpg 308,303,335,338,2
+FRCNN_ElecPos/train/elec_nort00280.jpg 308,145,341,358,0 318,1,326,345,2
+FRCNN_ElecPos/train/elec_east00020.jpg 348,108,403,262,0 276,1,425,302,1
+FRCNN_ElecPos/train/elec_elev00024.jpg 302,301,347,344,2 269,1,378,125,0
+FRCNN_ElecPos/train/elec_east00619.jpg 274,225,314,402,0 302,1,342,342,2
+FRCNN_ElecPos/train/elec_east00255.jpg 330,119,392,339,0 310,2,362,335,2
+FRCNN_ElecPos/train/elec_elev00020.jpg 302,304,338,339,2 238,1,348,197,0
+FRCNN_ElecPos/train/elec_elev00043.jpg 306,301,335,339,2 187,338,297,449,0
+FRCNN_ElecPos/train/elec_east00071.jpg 315,1,325,325,2
+FRCNN_ElecPos/train/elec_elev00290.jpg 285,234,409,355,2
+FRCNN_ElecPos/train/elec_nort00285.jpg 131,94,195,372,0 312,1,325,335,2
+FRCNN_ElecPos/train/elec_nort00058.jpg 316,2,325,234,2
+FRCNN_ElecPos/train/elec_east00046.jpg 286,130,359,359,0 308,1,327,373,2
+FRCNN_ElecPos/train/elec_elev00580.jpg 158,336,265,454,0 305,305,334,338,2
+FRCNN_ElecPos/train/elec_elev00045.jpg 282,272,362,358,0 332,331,394,399,2
+FRCNN_ElecPos/train/elec_east00285.jpg 449,89,530,395,0 304,1,330,330,2
+FRCNN_ElecPos/train/elec_nort00257.jpg 315,1,325,332,2
+FRCNN_ElecPos/train/elec_elev00054.jpg 308,306,335,338,2 299,259,380,345,0
+FRCNN_ElecPos/train/elec_east00028.jpg 416,72,478,328,0 306,1,329,329,2
+FRCNN_ElecPos/train/elec_elev00189.jpg 306,306,336,333,2
+FRCNN_ElecPos/train/elec_east00612.jpg 252,169,325,344,0 311,33,329,324,2
+FRCNN_ElecPos/train/elec_elev00029.jpg 306,300,334,341,2 316,318,397,409,0
+FRCNN_ElecPos/train/elec_elev00284.jpg 285,236,401,355,2 155,372,273,482,0
+FRCNN_ElecPos/train/elec_elev00249.jpg 198,267,292,426,0 296,325,334,568,2
+FRCNN_ElecPos/train/elec_east00694.jpg 309,159,363,335,2 305,3,332,335,2
+FRCNN_ElecPos/train/elec_east00045.jpg 291,132,344,339,0 311,1,330,332,2
+FRCNN_ElecPos/train/elec_elev00055.jpg 304,302,338,338,2 155,343,281,481,0
+FRCNN_ElecPos/train/elec_nort00190.jpg 274,115,317,335,0 310,1,327,326,2
+FRCNN_ElecPos/train/elec_nort00049.jpg 290,129,346,368,0 281,1,321,329,2
+FRCNN_ElecPos/train/elec_east00029.jpg 290,132,338,365,2 314,4,329,349,2
+FRCNN_ElecPos/train/elec_nort00048.jpg 290,126,342,304,2 289,1,324,283,2
+FRCNN_ElecPos/train/elec_east00049.jpg 290,126,360,368,0 313,1,324,365,2
+FRCNN_ElecPos/train/elec_east00258.jpg 293,1,371,345,2
+FRCNN_ElecPos/train/elec_east00041.jpg 312,32,328,320,2
+FRCNN_ElecPos/train/elec_nort00028.jpg 188,56,277,331,0 311,1,326,322,2
+FRCNN_ElecPos/train/elec_east00051.jpg 301,139,349,382,0 310,1,329,370,2
+FRCNN_ElecPos/train/elec_east00054.jpg 298,123,349,349,0 311,1,327,322,2
+FRCNN_ElecPos/train/elec_east00581.jpg 302,1,336,333,2 340,176,427,405,0
+FRCNN_ElecPos/train/elec_east00279.jpg 313,1,328,317,2 438,74,515,394,0
+FRCNN_ElecPos/train/elec_east00618.jpg 312,7,328,319,2
+FRCNN_ElecPos/train/elec_nort00690.jpg 308,15,325,295,2 367,152,407,297,0
+FRCNN_ElecPos/train/elec_elev00278.jpg 298,258,385,363,2
+FRCNN_ElecPos/train/elec_east00190.jpg 284,107,352,339,0 310,65,332,326,2
+FRCNN_ElecPos/train/elec_elev00041.jpg 305,301,338,344,2 140,241,307,405,0
+FRCNN_ElecPos/train/elec_nort00258.jpg 304,86,365,365,0 318,1,323,347,2
+FRCNN_ElecPos/train/elec_elev00259.jpg 279,231,408,355,2 426,485,582,636,0
+FRCNN_ElecPos/train/elec_elev00620.jpg 304,309,336,342,2 343,246,418,354,0
+FRCNN_ElecPos/train/elec_nort00288.jpg 312,1,325,336,2
+FRCNN_ElecPos/train/elec_nort00053.jpg 306,126,336,301,0 311,1,327,257,2
+FRCNN_ElecPos/train/elec_east00050.jpg 289,126,348,382,0 315,1,335,351,2
+FRCNN_ElecPos/train/elec_elev00049.jpg 293,273,398,375,0 308,313,394,396,2
+FRCNN_ElecPos/train/elec_elev00190.jpg 306,306,335,339,2 293,312,374,425,0
+FRCNN_ElecPos/train/elec_elev00279.jpg 305,308,335,340,2552,291,640,396,0
+FRCNN_ElecPos/train/elec_elev00692.jpg 191,148,290,260,0 305,308,337,337,2
+FRCNN_ElecPos/train/elec_elev00280.jpg 218,315,319,400,0 305,240,402,332,2
+FRCNN_ElecPos/train/elec_elev00048.jpg 282,293,373,390,0 313,311,393,396,2
+FRCNN_ElecPos/train/elec_east00687.jpg 250,126,338,395,0 306,1,332,327,2
+FRCNN_ElecPos/train/elec_east00025.jpg 311,1,336,266,2 255,95,303,289,0
+FRCNN_ElecPos/train/elec_east00048.jpg 285,124,378,369,0 313,1,327,368,2
+FRCNN_ElecPos/train/elec_east00043.jpg 250,96,302,349,0 311,1,330,329,0
+FRCNN_ElecPos/train/elec_elev00053.jpg 306,304,335,336,2 281,273,364,357,0
+FRCNN_ElecPos/train/elec_east00042.jpg 252,102,304,336,0 311,1,332,327,2
+FRCNN_ElecPos/train/elec_nort00020.jpg 376,72,432,263,0 226,1,357,265,1
+FRCNN_ElecPos/train/elec_nort00069.jpg 314,1,325,325,2 383,1,397,324,2
+FRCNN_ElecPos/train/elec_east00692.jpg 319,158,346,346,0 313,3,329,350,2
+FRCNN_ElecPos/train/elec_elev00044.jpg 212,253,331,417,0 308,303,397,400,2
+FRCNN_ElecPos/train/elec_nort00065.jpg 312,1,325,322,2
+FRCNN_ElecPos/train/elec_nort00022.jpg 333,1,425,333,0 279,1,302,332,2 231,99,282,318,0 308,1,329,292,2
+FRCNN_ElecPos/train/elec_east00026.jpg 235,112,305,345,0 306,1,335,330,2
+FRCNN_ElecPos/train/elec_elev00694.jpg 188,145,288,263,0 308,308,332,335,2
+FRCNN_ElecPos/train/elec_nort00050.jpg 279,147,315,355,0 315,1,325,334,2
+FRCNN_ElecPos/train/elec_elev00257.jpg 282,239,405,352,2
+FRCNN_ElecPos/train/elec_east00058.jpg 309,1,328,329,2
+FRCNN_ElecPos/train/elec_nort00612.jpg 322,180,352,352,0 313,3,324,286,2
+FRCNN_ElecPos/train/elec_nort00023.jpg 301,48,373,282,0 314,1,326,316,2
+FRCNN_ElecPos/train/elec_nort00614.jpg 314,7,325,292,2 340,84,380,315,2
+FRCNN_ElecPos/train/elec_elev00686.jpg 185,312,301,435,0 314,300,508,492,2
+FRCNN_ElecPos/train/elec_nort00615.jpg 308,1,328,339,2
+FRCNN_ElecPos/train/elec_elev00058.jpg 303,306,338,339,2
+FRCNN_ElecPos/train/elec_elev00022.jpg 303,304,335,339,2 388,311,545,424,0
+FRCNN_ElecPos/train/elec_elev00042.jpg 306,306,335,341,2 187,321,294,461,0
+FRCNN_ElecPos/train/elec_elev00023.jpg 306,304,338,341,2 313,184,415,319,1
+FRCNN_ElecPos/train/elec_east00278.jpg 295,1,349,342,2
+FRCNN_ElecPos/train/elec_nort00046.jpg 307,178,355,355,0 273,1,322,284,2
+FRCNN_ElecPos/train/elec_east00620.jpg 325,175,406,376,0 296,1,343,338,2
+FRCNN_ElecPos/train/elec_nort00055.jpg 303,122,349,329,0 314,1,324,325,2
+FRCNN_ElecPos/train/elec_nort00580.jpg 310,1,327,339,2
+FRCNN_ElecPos/train/elec_east00057.jpg 309,1,330,330,2
+FRCNN_ElecPos/train/elec_nort00045.jpg 300,144,360,333,0 283,1,331,329,2
+FRCNN_ElecPos/train/elec_nort00279.jpg 311,1,325,336,2
+FRCNN_ElecPos/train/elec_nort00618.jpg 314,1,328,328,2
+FRCNN_ElecPos/train/elec_elev00615.jpg 307,306,336,336,2
+FRCNN_ElecPos/train/elec_nort00619.jpg 312,99,328,330,2 367,227,418,340,0
+FRCNN_ElecPos/train/elec_nort00054.jpg 304,119,338,345,0 312,1,327,335,2
+FRCNN_ElecPos/train/elec_nort00290.jpg 310,1,325,325,2
+FRCNN_ElecPos/train/elec_east00023.jpg 304,1,333,319,2 314,60,370,281,0
+FRCNN_ElecPos/train/elec_nort00040.jpg 312,177,328,327,2 356,1,412,159,0
+FRCNN_ElecPos/train/elec_nort00255.jpg 317,132,347,360,0 313,1,326,348,2
+FRCNN_ElecPos/train/elec_nort00027.jpg 322,126,357,279,0 316,1,324,272,2
+FRCNN_ElecPos/train/elec_elev00059.jpg 308,309,335,336,2 282,321,382,432,0
+FRCNN_ElecPos/train/elec_nort00052.jpg 266,150,314,328,0 283,1,326,321,2
+FRCNN_ElecPos/train/elec_elev00619.jpg 306,304,332,336,2 151,225,259,330,0
+FRCNN_ElecPos/train/elec_nort00284.jpg 317,5,325,346,2
+FRCNN_ElecPos/train/elec_east00059.jpg 276,75,368,334,0 311,1,327,330,2
+FRCNN_ElecPos/train/elec_east00691.jpg 312,150,352,333,0 308,1,335,345,2

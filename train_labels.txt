@@ -104,7 +104,7 @@ FRCNN_ElecPos/train/elec_nort00053.jpg 306,126,336,301,0 311,1,327,257,2
 FRCNN_ElecPos/train/elec_east00050.jpg 289,126,348,382,0 315,1,335,351,2
 FRCNN_ElecPos/train/elec_elev00049.jpg 293,273,398,375,0 308,313,394,396,2
 FRCNN_ElecPos/train/elec_elev00190.jpg 306,306,335,339,2 293,312,374,425,0
-FRCNN_ElecPos/train/elec_elev00279.jpg 305,308,335,340,2552,291,640,396,0
+FRCNN_ElecPos/train/elec_elev00279.jpg 305,308,335,340,2 552,291,640,396,0
 FRCNN_ElecPos/train/elec_elev00692.jpg 191,148,290,260,0 305,308,337,337,2
 FRCNN_ElecPos/train/elec_elev00280.jpg 218,315,319,400,0 305,240,402,332,2
 FRCNN_ElecPos/train/elec_elev00048.jpg 282,293,373,390,0 313,311,393,396,2
